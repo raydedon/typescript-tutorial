@@ -1,0 +1,25 @@
+{
+  "name": "typescript-tutorial",
+  "version": "1.0.0",
+  "description": "typescript-tutorial",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tslint": "^5.10.0",
+    "typescript": "^2.9.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "tslint-fix": "tslint --fix -c ./tslint.json './src/**/*.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raydedon/typescript-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raydedon/typescript-tutorial/issues"
+  },
+  "homepage": "https://github.com/raydedon/typescript-tutorial#readme"
+}
